@@ -13,6 +13,8 @@ require (
 	github.com/scylladb/go-set v1.0.2
 )
 
+replace github.com/sandertv/gophertunnel => github.com/gopherhaven/cooldogedev-gophertunnel v0.0.0-20251212231856-68a99d08c01e
+
 require (
 	github.com/df-mc/jsonc v1.0.5 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.3 // indirect
