@@ -9,7 +9,7 @@ require (
 	github.com/go-gl/mathgl v1.2.0
 	github.com/golang/snappy v1.0.0
 	github.com/quic-go/quic-go v0.57.1
-	github.com/sandertv/gophertunnel v1.51.1
+	github.com/sandertv/gophertunnel v1.51.0
 	github.com/scylladb/go-set v1.0.2
 )
 
